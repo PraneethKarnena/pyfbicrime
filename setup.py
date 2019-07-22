@@ -11,7 +11,7 @@ setuptools.setup(
     description='Python client for FBI crime data API of the United States',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/PraneethKarnena/pyfbi',
+    url='https://github.com/PraneethKarnena/pyfbicrime',
     packages=setuptools.find_packages(),
     classifiers=[
         'DEVELOPMENT STATUS :: 5 - PRODUCTION/STABLE',
